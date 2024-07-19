@@ -1,0 +1,11 @@
+# build directory
+build/*
+
+# .vscode settings
+.vscode*
+
+# templates folder
+templates/
+
+#
+test.c
